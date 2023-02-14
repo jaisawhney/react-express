@@ -1,3 +1,3 @@
 # Express w/ React example
  
-Run `npm run start` to start both the client and the server
+Run `npx lerna bootstrap` and `npm run start` to start both the client and the server

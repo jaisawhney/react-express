@@ -2,7 +2,7 @@
   "name": "express-react",
   "private": true,
   "scripts": {
-    "start": "lerna run start --stream"
+    "start": "npx lerna run start --stream"
   },
   "devDependencies": {
     "lerna": "^6.5.0"
